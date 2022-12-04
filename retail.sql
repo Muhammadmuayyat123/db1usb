@@ -1,3 +1,7 @@
+-- Muhammad muayyat sabir
+-- D0221114
+-- INFORMATIKA H
+
 --
 -- PostgreSQL database dump
 --
